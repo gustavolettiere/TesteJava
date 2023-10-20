@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="logica-de-programacao-basica/src/main/java"/>
+	<classpathentry kind="src" path="SegundoTeste/src"/>
+	<classpathentry kind="output" path="logica-de-programacao-basica/target/classes"/>
+</classpath>
